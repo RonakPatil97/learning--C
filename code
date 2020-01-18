@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+  int n;
+  n=1000;
+  printf("%d",n);
+}
